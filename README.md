@@ -1,7 +1,7 @@
 <h1 align="center"> ⭐️ Welcome to my profile ⭐️ </h1>
 <h3 align="center"> 👾 Hi, My name is Limseng. 👾 </h3>
 
-<img align="right" alt="Sleepy Cat" width="150" src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi">
+<img align="center" alt="Sleepy Cat" width="175" src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi">
 
 <p align="left"> 
   Visitor count<br>
@@ -12,7 +12,7 @@ Hello there! 👋 I'm PAV Limseng, a year 2 data science student studying at the
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Data Science at the Department of Applied Mathematics and Statistics.
+- 🎓 Currently pursuing a degree in Data Science.
 - 🤖 Passionate about Artificial Intelligence and Machine Learning, and always eager to explore new advancements in the field.
 - 🌱 Currently honing my skills in Python, C, and C++, with a keen interest in applying them to solve real-world problems.
 
@@ -22,7 +22,6 @@ Here's a glimpse of what you can find in my repositories:
 
 - 📚 Study Materials: Notes, assignments, and projects related to my university coursework in data science.
 - 🔍 AI and Machine Learning: Implementations of various algorithms, models, and projects exploring the realm of AI and ML.
-- 📊 Data Analysis: Exploratory data analysis and visualization projects, showcasing insights extracted from various datasets.
 
 ## Connect with me via:
 
