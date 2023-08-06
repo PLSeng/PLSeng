@@ -1,7 +1,7 @@
 <h1 align="center"> ⭐️ Welcome to my profile ⭐️ </h1>
 <h3 align="center"> 👾 Hi, My name is Limseng. 👾 </h3>
 
-<img align="right" alt="Sleepy Cat" width="200" src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi">
+<img align="right" alt="Sleepy Cat" width="150" src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi">
 
 <p align="left"> 
   Visitor count<br>
