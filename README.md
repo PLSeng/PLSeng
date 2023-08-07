@@ -1,7 +1,9 @@
 <h1 align="center"> ⭐️ Welcome to my profile ⭐️ </h1>
 <h3 align="center"> 👾 Hi, My name is Limseng. 👾 </h3>
 
-<img align="center" alt="Sleepy Cat" width="175" src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi">
+<p align="center">
+  <img src="https://thestarryeye.typepad.com/.a/6a00d8341cdd0d53ef01156fbe1c1e970c-600wi" alt="sleepy cat" width="30%" />
+</p>
 
 <p align="left"> 
   Visitor count<br>
@@ -55,7 +57,13 @@ Here's a glimpse of what you can find in my repositories:
 
 ## Extracurricular Activities
 
-None
+I had the privilege to participate in the **UNESCO UNITWIN Cambodia Data Science Joint Certification Program**, which was an enriching experience that broadened my horizons and allowed me to collaborate with fellow data enthusiasts. It was an excellent opportunity to delve deeper into the world of data science and gain valuable insights from industry experts.
+
+Looking forward to the future, I'm eager to explore more opportunities and participate in other exciting programs. I'm always on the lookout for new learning experiences and projects that can further enhance my skills and knowledge in the field of data science.
+
+Stay tuned for updates on my journey as I continue to grow and learn in this fascinating domain!
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat! Happy coding! 🚀
 
 ## My Stats
 
