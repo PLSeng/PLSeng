@@ -55,13 +55,7 @@ Here's a glimpse of what you can find in my repositories:
 
 ## Extracurricular Activities
 
-I had the privilege to participate in the **UNESCO UNITWIN Cambodia Data Science Joint Certification Program**, which was an enriching experience that broadened my horizons and allowed me to collaborate with fellow data enthusiasts. It was an excellent opportunity to delve deeper into the world of data science and gain valuable insights from industry experts.
-
-Looking forward to the future, I'm eager to explore more opportunities and participate in other exciting programs. I'm always on the lookout for new learning experiences and projects that can further enhance my skills and knowledge in the field of data science.
-
-Stay tuned for updates on my journey as I continue to grow and learn in this fascinating domain!
-
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat! Happy coding! 🚀
+None
 
 ## My Stats
 
