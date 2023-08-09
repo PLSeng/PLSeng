@@ -16,7 +16,6 @@ Hello there! 👋 I'm PAV Limseng, a year 2 data science student studying at the
 
 - 🎓 Currently pursuing a degree in Data Science.
 - 🤖 Passionate about Artificial Intelligence and Machine Learning, and always eager to explore new advancements in the field.
-- 🌱 Currently honing my skills in Python, C, and C++, with a keen interest in applying them to solve real-world problems.
 
 ## Projects and Repositories
 
