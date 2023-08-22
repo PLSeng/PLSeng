@@ -52,6 +52,9 @@ Here's a glimpse of what you can find in my repositories:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" width="110" height="40"/>
+  </a>
 </p>
 
 ## Extracurricular Activities
