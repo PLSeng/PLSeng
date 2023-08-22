@@ -53,7 +53,7 @@ Here's a glimpse of what you can find in my repositories:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" width="110" height="40"/>
+    <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
   </a>
 </p>
 
