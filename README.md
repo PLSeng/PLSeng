@@ -36,6 +36,9 @@ Here's a glimpse of what you can find in my repositories:
   <a href="https://t.me/PLSeng">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="Telegram" width="35" />
   </a>
+  <a href="www.linkedin.com/in/plseng">
+    <img src="https://th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="LinkedIn" width="35" />
+  </a>
   <a href="mailto:limseng2017@outlook.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1024px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Email" width="35" />
   </a>
