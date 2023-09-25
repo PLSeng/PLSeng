@@ -10,7 +10,7 @@
   <img src="https://profile-counter.glitch.me/PLSeng/count.svg" />
 </p>
 
-Hello there! 👋 I'm PAV Limseng, a year 2 data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
+Hello there! 👋 I'm PAV Limseng, a third year data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
 
 ## About Me
 
