@@ -79,6 +79,18 @@ Here's a glimpse of what you can find in my repositories:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="Numpy">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="Matplotlib">
+    <img src="https://th.bing.com/th?id=ODLS.52bd85f3-a366-4464-9a67-664b779630fb&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="seaborn" width="38" height="38"/>
+  </a>
 </p>
 
 ## Extracurricular Activities
