@@ -64,6 +64,9 @@ Here's a glimpse of what you can find in my repositories:
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://avatars3.githubusercontent.com/u/18692364?s=400&v=4" alt="html5" width="40" height="40">
     </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="Spring">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="38" height="38"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -90,6 +93,18 @@ Here's a glimpse of what you can find in my repositories:
   </a> 
   <a href="https://matplotlib.org/" target="_blank" rel="Matplotlib">
     <img src="https://th.bing.com/th?id=ODLS.52bd85f3-a366-4464-9a67-664b779630fb&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="seaborn" width="38" height="38"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="scikit-learn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="38" height="38"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="LaTeX">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="38" height="38"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="LaTeX">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="38" height="38"/>
   </a>
 </p>
 
