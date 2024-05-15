@@ -103,9 +103,6 @@ Here's a glimpse of what you can find in my repositories:
   <a href="https://www.latex-project.org/" target="_blank" rel="LaTeX">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="38" height="38"/>
   </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="LaTeX">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="38" height="38"/>
-  </a>
 </p>
 
 ## Extracurricular Activities
