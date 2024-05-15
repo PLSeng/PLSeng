@@ -107,9 +107,28 @@ Here's a glimpse of what you can find in my repositories:
 
 ## Extracurricular Activities
 
-I had the privilege to participate in the **UNESCO UNITWIN Cambodia Data Science Joint Certification Program**, which was an enriching experience that broadened my horizons and allowed me to collaborate with fellow data enthusiasts. It was an excellent opportunity to delve deeper into the world of data science and gain valuable insights from industry experts.
+- **UNESCO UNITWIN**
+  - Data Science Camp Standard Level, 2023
+  - Data-Driven Application, 2024
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to chat! Happy coding! 🚀
+- **MicroLearnable**
+  - Dart Programming and Application Development, 2023
+
+- **Coursera x IBM**
+  - What is Data Science?
+    - Credential ID: SLB3TM3KAJ7, 2023
+
+- **Coursera x University of Colorado Boulder**
+  - Introduction to Python Fundamentals
+    - Credential ID: MNBHGT2NWAAK, 2023
+
+- **Coursera x DeepLearning.AI, Stanford University**
+  - Supervised Machine Learning: Regression and Classification
+    - Credential ID: DYKNK5MYUXDW, 2024
+
+- **Coursera x Google**
+  - Connect and Protect: Networks and Network Security
+    - Credential ID: FZFBUWAN594C, 2024
 
 ## My Stats
 
