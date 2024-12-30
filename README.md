@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  Visitor count<br>
+  <b>Visitor Count</b><br>
   <img src="https://count.getloli.com/@:plseng?name=%3Aplseng&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
