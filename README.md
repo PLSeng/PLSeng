@@ -7,10 +7,10 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PLSeng/count.svg" />
+  <img src="https://count.getloli.com/@:plseng?name=%3Aplseng&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
-Hello there! 👋 I'm PAV Limseng, a third year data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
+Hello there! 👋 I'm PAV Limseng, a fourth year data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -129,6 +129,9 @@ Here's a glimpse of what you can find in my repositories:
 - **Coursera x Google**
   - Connect and Protect: Networks and Network Security
     - Credential ID: FZFBUWAN594C, 2024
+   
+- **Others**
+  - don't have time to add yet 😭
 
 ## My Stats
 
