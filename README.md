@@ -10,7 +10,7 @@
   <img src="https://count.getloli.com/@:plseng?name=%3Aplseng&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
-Hello there! 👋 I'm PAV Limseng, a fourth year data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
+Hello there! 👋 I'm PAV Limseng, a fifth year or final year data science student studying at the Institute of Technology of Cambodia. Welcome to my GitHub profile!
 
 ## About Me
 
