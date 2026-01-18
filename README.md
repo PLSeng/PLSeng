@@ -27,12 +27,6 @@ Here's a glimpse of what you can find in my repositories:
 ## Connect with me via:
 
 <p align="left">
-  <a href="https://www.facebook.com/sherlock.seng/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1024px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" width="35" />
-  </a>
-  <a href="https://www.instagram.com/comrade_doofenshmirtz/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="35" />
-  </a>
   <a href="https://t.me/PLSeng">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="Telegram" width="35" />
   </a>
@@ -40,20 +34,20 @@ Here's a glimpse of what you can find in my repositories:
     <img src="https://th.bing.com/th?id=ODLS.c1b94e26-52d8-4d85-8faf-a367583929ce&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2" alt="LinkedIn" width="35" />
   </a>
   <a href="mailto:limseng2017@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1024px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Email" width="35" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/1280px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png" alt="Email" width="35" />
   </a>
 </p>
 
 ## Languages and Tools:
 <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.dart.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="dart" width="40" height="40"/>
